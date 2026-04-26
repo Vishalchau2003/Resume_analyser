@@ -105,7 +105,7 @@ python main.py
 resume_analysis_agent/
 │── main.py
 │── README.md
-│── resume.pdf
+
 
 
 🧠 Example Output
